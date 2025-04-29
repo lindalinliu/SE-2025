@@ -1,7 +1,7 @@
-# SE-2024
+# SE-2025
 ![Build documentation with mkdocs](https://github.com/LinLiuLab/SE-2024/workflows/Build%20documentation%20with%20mkdocs/badge.svg)
 
-本项目为清华大学2024年秋季学期《软件工程》课程网站，采用 `mkdocs` 编写
+本项目为清华大学2025年秋季学期《软件工程》课程网站，采用 `mkdocs` 编写
 
 ## 撰写
 
