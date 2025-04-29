@@ -12,8 +12,8 @@
 | **课程号**         | 44100203                                                        |
 | **学期**           | 2024—2025 学年度秋季学期                                        |
 | **主讲教师**       | **[刘璘](https://www.thss.tsinghua.edu.cn/faculty/liulin.htm)** |
-| **研究生助教团队** | 黄舒炜、卢展、苌晨阳、齐仕杰、张有容、张雨恬、许德成            |
-| **本科生助教团队** | 马喆轩、张之远                                                  |
+| **研究生助教团队** | 卢展、齐仕杰、张雨恬、张有容、许德成、童新荷、刘一明                |
+| **本科生助教团队** | 余超、刘怿轩                                                  |
 
 !!!success "课程介绍"
 
@@ -57,8 +57,8 @@
     ---
 
     * 良好的编程实践
-    * ChatGPT 能力测试 （学长分享与讨论）
-    * Copilot X 实践经验 （学长分享与讨论） 
+    * 语言模型能力测试 （学长分享与讨论）
+    * 语言模型辅助的实践经验 （学长分享与讨论） 
 
 -   :fontawesome-brands-git-alt:{ .lg .middle } __软件开发管理__
 
@@ -85,21 +85,18 @@
     * SysML  
     * MBSE
 
--   :material-database-outline:{ .lg .middle } __数据建模与数据库__
+-   :material-database-outline:{ .lg .middle } __数据建模与设计__
 
     ---
 
     * ER图
     * 类图
-    * DBMS
 
--   :fontawesome-solid-magnifying-glass:{ .lg .middle } __OO设计模式__
+-   :fontawesome-solid-magnifying-glass:{ .lg .middle } _数据库__
 
     ---
 
-    * 面向对象
-    * HeadFirst Design Patterns
-    * Pattern Language 
+    * DBMS
 
 -   :fontawesome-solid-flask:{ .lg .middle } __功能测试__
 
